@@ -1,2 +1,9 @@
-# Sensoria-Health-Test
-I'm Bored App, Native iOS(Swift) &amp; Android(Kotlin) Development
+# Sensoria-Health-Test(I'm Bored App)
+
+Demo App is for Sensoria Health Inc.
+
+# Skill
+
+Swift, Kotlin
+
+# Function
