@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60sp">
+    <TextView
+        android:id="@+id/tvActivity"
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:gravity="center_vertical"
+        android:text="activity"
+        android:textSize="18sp"
+        android:paddingHorizontal="20sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5sp"
+        android:background="@color/colorLightGray"
+        android:layout_alignParentBottom="true"
+        android:layout_marginHorizontal="4sp"/>
+</RelativeLayout>
